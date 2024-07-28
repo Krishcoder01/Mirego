@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Almirego Display'; ;
+    src: url(./fonts/AlmiregoDisplayLight.ttf);
+}
+
+@font-face {
+    font-family: 'News Reader' ;
+    src: url(./fonts/newsreader-italic.ttf);
+}
